@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ManhTi3012
-- 👀 I’m interested in Robotic
+- 👀 I’m a mechatronic undergrad, focused mainly on pcb and robotic design
 - 🌱 I’m currently learning c, c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: ManhTi#6955
+- 💞️ I’m looking to collaborate on UAV and legged robot
 
-<!---
-CuaKiCuc/CuaKiCuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhTi3012&theme=tokyonight)
+
+
+
